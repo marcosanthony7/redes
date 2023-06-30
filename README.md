@@ -1,4 +1,4 @@
 # redes
 
 - Objetivo:
-  - Inserir as atividades da disciplina de Redes de Computadores
+  - Inserir as atividades desenvolvidas ao longo do ano da disciplina de Introdução a Redes de Computadores
